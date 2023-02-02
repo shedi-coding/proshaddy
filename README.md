@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @proshaddy
-- 👀 I’m interested in software engeeniring
+- 👀 I’m interested in software engineering and web development
 - 🌱 I’m currently learning React,python,js,laravel, php,vuejs
 - 💞️ I’m looking to collaborate on projects and more coding related staffs.
 - 📫 How to reach me linkedin @https://www.linkedin.com/in/shadrack-kirop-09432323a/
